@@ -2,7 +2,7 @@
 	<PropertyGroup>
 		<RootNamespace>Rebus</RootNamespace>
 		<AssemblyName>Rebus.CastleWindsor</AssemblyName>
-		<PackageId>Rebus.Castle.Windsor</PackageId>
+		<PackageId>Microting.Rebus.Castle.Windsor</PackageId>
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<LangVersion>10</LangVersion>
 		<Authors>mookid8000</Authors>
