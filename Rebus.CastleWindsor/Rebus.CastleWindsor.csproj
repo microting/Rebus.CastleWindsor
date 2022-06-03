@@ -41,8 +41,8 @@
     <DocumentationFile>bin\Release\Rebus.CastleWindsor.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="castle.windsor" Version="5.1.1" />
-    <PackageReference Include="Microting.Rebus" Version="7.3.5" />
+    <PackageReference Include="castle.windsor" Version="5.1.2" />
+    <PackageReference Include="Microting.Rebus" Version="7.3.7" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\artwork\little_rebusbus2_copy-500x500.png">
