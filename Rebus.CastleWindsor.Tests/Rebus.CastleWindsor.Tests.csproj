@@ -3,7 +3,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Rebus.CastleWindsor.Tests</RootNamespace>
     <AssemblyName>Rebus.CastleWindsor.Tests</AssemblyName>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <Authors>mookid8000</Authors>
     <PackageLicenseUrl>https://raw.githubusercontent.com/rebus-org/Rebus/master/LICENSE.md</PackageLicenseUrl>
@@ -16,11 +16,11 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Rebus.CastleWindsor\Rebus.CastleWindsor.csproj" />
-    <PackageReference Include="microsoft.net.test.sdk" Version="17.3.0" />
-    <PackageReference Include="Microting.Rebus" Version="7.3.8" />
-    <PackageReference Include="Microting.Rebus.Tests.Contracts" Version="7.3.8" />
+    <PackageReference Include="microsoft.net.test.sdk" Version="17.4.0" />
+    <PackageReference Include="Microting.Rebus" Version="7.3.10" />
+    <PackageReference Include="Microting.Rebus.Tests.Contracts" Version="7.3.10" />
     <PackageReference Include="nunit" Version="3.13.3" />
-    <PackageReference Include="nunit3testadapter" Version="4.2.1">
+    <PackageReference Include="nunit3testadapter" Version="4.3.1">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
