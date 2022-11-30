@@ -41,7 +41,7 @@
     <DocumentationFile>bin\Release\Rebus.CastleWindsor.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="castle.windsor" Version="5.1.2" />
+    <PackageReference Include="Microting.Castle.Windsor" Version="6.0.0" />
     <PackageReference Include="Microting.Rebus" Version="7.3.10" />
   </ItemGroup>
   <ItemGroup>
