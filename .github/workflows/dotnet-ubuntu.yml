@@ -3,7 +3,7 @@ name: .NET Ubuntu
 on:
   push:
     branches: [ master, net50 ]
-  pull_request:
+  pull-request:
     branches: [ master, net50 ]
 jobs:
   build:

@@ -14,3 +14,6 @@ build_script:
 
 test_script:
   - dotnet test Rebus.CastleWindsor.Tests -c Release --no-restore
+
+test_script:
+  - dotnet test Rebus.CastleWindsor.Tests --no-build --verbosity normal -c Release
