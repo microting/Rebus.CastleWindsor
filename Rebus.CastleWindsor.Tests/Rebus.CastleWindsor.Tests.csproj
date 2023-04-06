@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
  <PropertyGroup>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Rebus.CastleWindsor.Tests</RootNamespace>
@@ -18,7 +18,7 @@
     <ProjectReference Include="..\Rebus.CastleWindsor\Rebus.CastleWindsor.csproj" />
     <PackageReference Include="microsoft.net.test.sdk" Version="17.5.0" />
     <PackageReference Include="Microting.Rebus" Version="7.3.11" />
-    <PackageReference Include="Microting.Rebus.Tests.Contracts" Version="7.3.11" />
+    <PackageReference Include="Microting.Rebus.Tests.Contracts" Version="7.3.12" />
     <PackageReference Include="nunit" Version="3.13.3" />
     <PackageReference Include="nunit3testadapter" Version="4.4.2">
       <PrivateAssets>all</PrivateAssets>
