@@ -6,7 +6,7 @@
     <RootNamespace>Rebus</RootNamespace>
     <AssemblyName>Rebus.CastleWindsor</AssemblyName>
     <PackageId>Microting.Rebus.Castle.Windsor</PackageId>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <Authors>mookid8000</Authors>
     <PackageLicenseUrl></PackageLicenseUrl>
@@ -42,7 +42,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Castle.Windsor" Version="6.0.0" />
-    <PackageReference Include="Microting.Rebus" Version="8.0.5" />
+    <PackageReference Include="Microting.Rebus" Version="9.0.0" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\artwork\little_rebusbus2_copy-500x500.png">
