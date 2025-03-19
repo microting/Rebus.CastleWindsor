@@ -20,7 +20,7 @@
     <PackageReference Include="Microting.Rebus" Version="9.0.1" />
     <PackageReference Include="Microting.Rebus.Tests.Contracts" Version="9.0.1" />
     <PackageReference Include="nunit" Version="3.14.0" />
-    <PackageReference Include="nunit3testadapter" Version="4.5.0">
+    <PackageReference Include="nunit3testadapter" Version="4.6.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
