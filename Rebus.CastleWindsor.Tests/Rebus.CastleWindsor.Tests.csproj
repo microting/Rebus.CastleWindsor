@@ -17,8 +17,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Rebus.CastleWindsor\Rebus.CastleWindsor.csproj" />
     <PackageReference Include="microsoft.net.test.sdk" Version="17.14.1" />
-    <PackageReference Include="Microting.Rebus" Version="9.0.2" />
-    <PackageReference Include="Microting.Rebus.Tests.Contracts" Version="9.0.2" />
+    <PackageReference Include="Microting.Rebus" Version="9.0.3" />
+    <PackageReference Include="Microting.Rebus.Tests.Contracts" Version="9.0.3" />
     <PackageReference Include="nunit" Version="4.4.0" />
     <PackageReference Include="nunit3testadapter" Version="5.1.0">
       <PrivateAssets>all</PrivateAssets>
