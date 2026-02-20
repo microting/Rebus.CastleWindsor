@@ -19,7 +19,7 @@
     <PackageReference Include="microsoft.net.test.sdk" Version="18.0.1" />
     <PackageReference Include="Microting.Rebus" Version="10.0.1" />
     <PackageReference Include="Microting.Rebus.Tests.Contracts" Version="10.0.1" />
-    <PackageReference Include="nunit" Version="4.4.0" />
+    <PackageReference Include="nunit" Version="4.5.0" />
     <PackageReference Include="nunit3testadapter" Version="6.1.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
